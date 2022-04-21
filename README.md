@@ -8,4 +8,10 @@
 Наши преимущества:
 * Высокая точность поиска
 * Высокая скорость поиска
-* Низкая цена# netology-
+* Низкая цена# 
+```css
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
+```
